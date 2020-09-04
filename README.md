@@ -1,2 +1,2 @@
 # all
-a new beginning
+a new beginning too
